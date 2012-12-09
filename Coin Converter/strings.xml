@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etiqueta1">Cantidad de convertir:</string>
+    <string name="app_name">Conversor</string>
+    <string name="boton1">Euros</string>
+    <string name="boton2">Pesetas</string>
+    <string name="etiqueta2">Euros:</string>
+    <string name="etiqueta3">Pesetas:</string>
+</resources>
